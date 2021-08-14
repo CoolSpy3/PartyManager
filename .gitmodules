@@ -1,0 +1,3 @@
+[submodule "HypixelAPI"]
+	path = HypixelAPI
+	url = https://github.com/CoolSpy3/HypixelAPI
