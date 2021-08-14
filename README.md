@@ -1,4 +1,4 @@
-# Online Friends
+# Party Manager
 This mod works on the popular minecraft server [Hypixel](https://hypixel.net/) to add commands to help manage parties. In order to work, this mod requires [HypixelAPI](https://github.com/CoolSpy3/HypixelAPI).
 
  The full list of commands is as follows:<br/><br/>
